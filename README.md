@@ -1,1 +1,1 @@
-# Implementation of Several algorithms
+# Implementation of several algorithms
